@@ -18,7 +18,7 @@
 //////////////////////////////////////////////////////
 
 const EXAMPLE_TRIANGLE = 5;
-const TRIANGLE_RESULT = 28;
+const TRIANGLE_RESULT  = 28;
 
 function findTriangleForDivisors( number )
 {
@@ -39,8 +39,6 @@ function findTriangleForDivisors( number )
 		}
 
 		natural += 1;
-
-		console.log( divisors.length )
 	}
 }
 
