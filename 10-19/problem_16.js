@@ -4,7 +4,7 @@
 // What is the sum of the digits of the number 21000?
 //////////////////////////////////////
 
-const bigInteger = require( './vendor/bigInteger' );
+const bigInteger = require( '../vendor/bigInteger' );
 
 const EXAMPLE = 15;
 const RESULT  = 26;
